@@ -12,4 +12,4 @@ Things that you have to do to launh the project correctly:
 
 The snake consists of squares and the head has a arrow which looks at the front always
 
-You fail if you eat yourself of hit walls
+You fail if you eat yourself or hit walls
